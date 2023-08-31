@@ -1,6 +1,9 @@
 {
   "scripts": {
-    "start": "vite"
+    "start": "vite",
+    "build":"vite build"
+    
+
   },
   
   "devDependencies": {
@@ -16,6 +19,7 @@
   
     
   "vite": "^4.4.9"
+  
   
   }
 }
